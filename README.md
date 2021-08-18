@@ -1,4 +1,3 @@
-! [Password Generator] (./privacy.png) 
 # Password-Generator
 
 ### Password Generator Android App 
