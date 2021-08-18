@@ -1,4 +1,5 @@
-# ![Password Generator] (/privacy.png) Password-Generator
+![Password Generator] (/privacy.png) 
+# Password-Generator
 
 # Password Generator Android App 
 ### Develope By Gaurav Vipani
